@@ -1,0 +1,170 @@
+{
+  "version": 2,
+  "settings": {
+    "title": "個人每週課程安排",
+    "semester": "我的學期計畫",
+    "times": [
+      [
+        "08:10",
+        "09:00"
+      ],
+      [
+        "09:10",
+        "10:00"
+      ],
+      [
+        "10:10",
+        "11:00"
+      ],
+      [
+        "11:10",
+        "12:00"
+      ],
+      [
+        "13:30",
+        "14:20"
+      ],
+      [
+        "14:25",
+        "15:15"
+      ],
+      [
+        "15:25",
+        "16:15"
+      ],
+      [
+        "16:20",
+        "17:10"
+      ],
+      [
+        "17:15",
+        "18:05"
+      ],
+      [
+        "18:30",
+        "19:15"
+      ]
+    ],
+    "categories": {
+      "sky": "一般課程",
+      "emerald": "必修課程",
+      "rose": "選修課程",
+      "amber": "實作課程",
+      "indigo": "專題課程"
+    },
+    "weekend": false,
+    "view": "grid"
+  },
+  "courses": [
+    {
+      "id": "photo_IM101",
+      "name": "資訊管理導論",
+      "teacher": "黃燕萍",
+      "location": "電708(承曦樓)",
+      "day": 1,
+      "startSlot": 2,
+      "endSlot": 4,
+      "color": "emerald",
+      "note": ""
+    },
+    {
+      "id": "photo_IM102",
+      "name": "電子商務",
+      "teacher": "唐日新",
+      "location": "藝406",
+      "day": 2,
+      "startSlot": 2,
+      "endSlot": 4,
+      "color": "emerald",
+      "note": ""
+    },
+    {
+      "id": "photo_IM104",
+      "name": "系統分析與設計(上)與實習",
+      "teacher": "丁慧瑩",
+      "location": "藝406",
+      "day": 3,
+      "startSlot": 2,
+      "endSlot": 4,
+      "color": "emerald",
+      "note": ""
+    },
+    {
+      "id": "photo_GE101",
+      "name": "國文(三)(上)",
+      "teacher": "許佩玉",
+      "location": "藝406",
+      "day": 4,
+      "startSlot": 2,
+      "endSlot": 4,
+      "color": "emerald",
+      "note": ""
+    },
+    {
+      "id": "photo_GE103",
+      "name": "英文(三)(上)",
+      "teacher": "王嬿惠",
+      "location": "藝406",
+      "day": 5,
+      "startSlot": 2,
+      "endSlot": 4,
+      "color": "emerald",
+      "note": ""
+    },
+    {
+      "id": "photo_PE101",
+      "name": "體育三(上)",
+      "teacher": "李俞麟",
+      "location": "藝406",
+      "day": 1,
+      "startSlot": 5,
+      "endSlot": 6,
+      "color": "emerald",
+      "note": ""
+    },
+    {
+      "id": "photo_IM103",
+      "name": "網站應用程式設計與實習",
+      "teacher": "林俊杰",
+      "location": "電708(承曦樓)",
+      "day": 2,
+      "startSlot": 5,
+      "endSlot": 7,
+      "color": "emerald",
+      "note": ""
+    },
+    {
+      "id": "photo_IM105",
+      "name": "電腦網路(上)",
+      "teacher": "謝文欽",
+      "location": "資401",
+      "day": 3,
+      "startSlot": 5,
+      "endSlot": 6,
+      "color": "emerald",
+      "note": ""
+    },
+    {
+      "id": "photo_GE102",
+      "name": "英語會話(二)(上)與實習",
+      "teacher": "顏嬿真",
+      "location": "藝406",
+      "day": 4,
+      "startSlot": 5,
+      "endSlot": 6,
+      "color": "emerald",
+      "note": ""
+    },
+    {
+      "id": "photo_MA101",
+      "name": "微積分(上)",
+      "teacher": "陳秋良",
+      "location": "藝406",
+      "day": 3,
+      "startSlot": 7,
+      "endSlot": 9,
+      "color": "emerald",
+      "note": ""
+    }
+  ]
+}
